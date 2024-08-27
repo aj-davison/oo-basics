@@ -1,5 +1,5 @@
-Object Oriented Principles
---Abstraction
---Encapsulation
---Polymorphism
---Inheritance
+# Object Oriented Principles
+--Abstraction  
+--Encapsulation  
+--Polymorphism  
+--Inheritance  
