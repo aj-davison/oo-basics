@@ -1,0 +1,15 @@
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\bin\Debug\net8.0\OOPrinciples.exe
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\bin\Debug\net8.0\OOPrinciples.deps.json
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\bin\Debug\net8.0\OOPrinciples.runtimeconfig.json
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\bin\Debug\net8.0\OOPrinciples.dll
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\bin\Debug\net8.0\OOPrinciples.pdb
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\OOPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\OOPrinciples.AssemblyInfoInputs.cache
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\OOPrinciples.AssemblyInfo.cs
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\OOPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\OOPrinciples.sourcelink.json
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\OOPrinciples.dll
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\refint\OOPrinciples.dll
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\OOPrinciples.pdb
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\OOPrinciples.genruntimeconfig.cache
+C:\Users\andyD\OneDrive\Desktop\547\oo-basics\OOPrinciples\OOPrinciples\obj\Debug\net8.0\ref\OOPrinciples.dll
